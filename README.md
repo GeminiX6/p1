@@ -15,4 +15,4 @@ None for this project.
 ## Outside Code
 
 PureCSS: <http://purecss.io/>
-
+w3schools: <http://www.w3schools.com/css/default.asp>
