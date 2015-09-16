@@ -39,12 +39,26 @@
 
   <div class="center">
 
-  <div class="pure-menu pure-menu-horizontal" >
-      <a href="#" class="pure-menu-heading pure-menu-link">PROJECTS</a>
-      <ul class="pure-menu-list" >
-          <li class="pure-menu-item pure-menu-disabled"><a href="#" class="pure-menu-link">P2</a></li>
-          <li class="pure-menu-item pure-menu-disabled"><a href="#" class="pure-menu-link">P3</a></li>
-          <li class="pure-menu-item pure-menu-disabled"><a href="#" class="pure-menu-link">P4</a></li>
+    <div class="pure-menu pure-menu-horizontal">
+      <ul class="pure-menu-list">
+          <li class="pure-menu-item pure-menu-selected"><a href="#" class="pure-menu-link">Projects</a></li>
+          <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+              <a href="#" id="menuLink1" class="pure-menu-link">Project 2</a>
+              <ul class="pure-menu-children">
+                  <li class="pure-menu-item"><a href="#" class="pure-menu-link">View Project</a></li>
+                  <li class="pure-menu-item"><a href="#" class="pure-menu-link">View Github</a></li>
+              </ul>
+              <a href="#" id="menuLink1" class="pure-menu-link">Project 3</a>
+              <ul class="pure-menu-children">
+                  <li class="pure-menu-item"><a href="#" class="pure-menu-link">View Project</a></li>
+                  <li class="pure-menu-item"><a href="#" class="pure-menu-link">View Github</a></li>
+              </ul>
+              <a href="#" id="menuLink1" class="pure-menu-link">Project 4</a>
+              <ul class="pure-menu-children">
+                  <li class="pure-menu-item"><a href="#" class="pure-menu-link">View Project</a></li>
+                  <li class="pure-menu-item"><a href="#" class="pure-menu-link">View Github</a></li>
+              </ul>
+          </li>
       </ul>
   </div>
 
