@@ -14,6 +14,11 @@
       text-align: center;
     }
 
+    h2
+    {
+      text-align: center;
+    }
+
     img
     {
       display: block;
@@ -21,32 +26,32 @@
       width: 40%;
     }
 
-    .wrapper
+    .center
     {
-      width: 75%;
-      min-width: 768px;
-      margin-top: 50px;
-      margin-bottom: 50px;
+    margin: auto;
+    width: 60%;
+    padding: 10px;
     }
 
-  </style>
+    </style>
 
 </head>
 <body>
-
-  <div class="wrapper">
 
     <h1>Matthew Cole <br> DWA15 Portfolio </h1>
 
     <img src= "matt.jpg" alt="Matt Cole">
 
-  <div class="pure-menu pure-menu-horizontal">
+  <div class="center">
+
+  <div class="pure-menu pure-menu-horizontal" >
       <a href="#" class="pure-menu-heading pure-menu-link">PROJECTS</a>
-      <ul class="pure-menu-list">
+      <ul class="pure-menu-list" >
           <li class="pure-menu-item pure-menu-disabled"><a href="#" class="pure-menu-link">P2</a></li>
           <li class="pure-menu-item pure-menu-disabled"><a href="#" class="pure-menu-link">P3</a></li>
           <li class="pure-menu-item pure-menu-disabled"><a href="#" class="pure-menu-link">P4</a></li>
       </ul>
+  </div>
   </div>
 
   <h2>In 2+ sentences describe who you are and what you do.</h2>
@@ -63,8 +68,6 @@
 
 		<h2>Anything else we should know?</h2>
 		<p>I love Megaman!</p>
-
-</div>
 
 </body>
 </html>
