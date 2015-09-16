@@ -39,28 +39,32 @@
 
   <div class="center">
 
-    <div class="pure-menu pure-menu-horizontal">
-      <ul class="pure-menu-list">
-          <li class="pure-menu-item pure-menu-selected"><a href="#" class="pure-menu-link">Projects</a></li>
-          <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
-              <a href="#" id="menuLink1" class="pure-menu-link">Project 2</a>
-              <ul class="pure-menu-children">
-                  <li class="pure-menu-item"><a href="#" class="pure-menu-link">View Project</a></li>
-                  <li class="pure-menu-item"><a href="#" class="pure-menu-link">View Github</a></li>
-              </ul>
-              <a href="#" id="menuLink1" class="pure-menu-link">Project 3</a>
-              <ul class="pure-menu-children">
-                  <li class="pure-menu-item"><a href="#" class="pure-menu-link">View Project</a></li>
-                  <li class="pure-menu-item"><a href="#" class="pure-menu-link">View Github</a></li>
-              </ul>
-              <a href="#" id="menuLink1" class="pure-menu-link">Project 4</a>
-              <ul class="pure-menu-children">
-                  <li class="pure-menu-item"><a href="#" class="pure-menu-link">View Project</a></li>
-                  <li class="pure-menu-item"><a href="#" class="pure-menu-link">View Github</a></li>
-              </ul>
-          </li>
-      </ul>
-  </div>
+    <div class="pure-menu custom-restricted-width">
+    <ul class="pure-menu-list">
+        <li class="pure-menu-item pure-menu-selected"><a href="#" class="pure-menu-link">Semester Projects</a></li>
+        <li class="pure-menu-item pure-menu-has-children">
+            <a href="#" id="menuLink1" class="pure-menu-link">Project 2</a>
+            <ul class="pure-menu-children">
+                <li class="pure-menu-item"><a href="#" class="pure-menu-link">View Site</a></li>
+                <li class="pure-menu-item"><a href="#" class="pure-menu-link">View Github</a></li>
+            </ul>
+        </li>
+        <li class="pure-menu-item pure-menu-has-children">
+            <a href="#" id="menuLink1" class="pure-menu-link">Project 3</a>
+            <ul class="pure-menu-children">
+                <li class="pure-menu-item"><a href="#" class="pure-menu-link">View Site</a></li>
+                <li class="pure-menu-item"><a href="#" class="pure-menu-link">View Github</a></li>
+            </ul>
+        </li>
+        <li class="pure-menu-item pure-menu-has-children">
+            <a href="#" id="menuLink1" class="pure-menu-link">Project 4</a>
+            <ul class="pure-menu-children">
+                <li class="pure-menu-item"><a href="#" class="pure-menu-link">View Site</a></li>
+                <li class="pure-menu-item"><a href="#" class="pure-menu-link">View Github</a></li>
+            </ul>
+        </li>
+    </ul>
+</div>
 
     <h2>In 2+ sentences describe who you are and what you do.</h2>
 		<p>My name is Matthew Cole, and I am a computer technician at General Dynamics Information Technology. I fix computers, assist with various software installations and updates, and maintain servers and network equipment. I also do a lot of work within my company regarding virtual machines.</p>
