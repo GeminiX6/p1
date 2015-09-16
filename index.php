@@ -45,21 +45,21 @@
       <ul class="pure-menu-list">
           <li class="pure-menu-item pure-menu-selected"><a href="#" class="pure-menu-link">Semester Projects</a></li>
           <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
-              <a href="#" id="menuLink1" class="pure-menu-link">Project 1</a>
+              <a href="#" id="menuLink1" class="pure-menu-link">Project 2</a>
               <ul class="pure-menu-children">
                   <li class="pure-menu-item"><a href="#" class="pure-menu-link">View Site</a></li>
                   <li class="pure-menu-item"><a href="#" class="pure-menu-link">View Github</a></li>
               </ul>
           </li>
           <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
-              <a href="#" id="menuLink2" class="pure-menu-link">Project 2</a>
+              <a href="#" id="menuLink2" class="pure-menu-link">Project 3</a>
               <ul class="pure-menu-children">
                   <li class="pure-menu-item"><a href="#" class="pure-menu-link">View Site</a></li>
                   <li class="pure-menu-item"><a href="#" class="pure-menu-link">View Github</a></li>
               </ul>
           </li>
           <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
-              <a href="#" id="menuLink3" class="pure-menu-link">Project 3</a>
+              <a href="#" id="menuLink3" class="pure-menu-link">Project 4</a>
               <ul class="pure-menu-children">
                   <li class="pure-menu-item"><a href="#" class="pure-menu-link">View Site</a></li>
                   <li class="pure-menu-item"><a href="#" class="pure-menu-link">View Github</a></li>
