@@ -14,11 +14,6 @@
       text-align: center;
     }
 
-    h2
-    {
-      text-align: center;
-    }
-
     img
     {
       display: block;
@@ -52,9 +47,8 @@
           <li class="pure-menu-item pure-menu-disabled"><a href="#" class="pure-menu-link">P4</a></li>
       </ul>
   </div>
-  </div>
 
-  <h2>In 2+ sentences describe who you are and what you do.</h2>
+    <h2>In 2+ sentences describe who you are and what you do.</h2>
 		<p>My name is Matthew Cole, and I am a computer technician at General Dynamics Information Technology. I fix computers, assist with various software installations and updates, and maintain servers and network equipment. I also do a lot of work within my company regarding virtual machines.</p>
 
 		<h2>Why are you taking this course?</h2>
@@ -68,6 +62,8 @@
 
 		<h2>Anything else we should know?</h2>
 		<p>I love Megaman!</p>
+
+  </div>
 
 </body>
 </html>
