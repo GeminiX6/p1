@@ -18,7 +18,7 @@
     {
       display: block;
       margin: auto;
-      width: 40%;
+      width: 25%;
     }
 
     .center
