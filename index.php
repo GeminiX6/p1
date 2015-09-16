@@ -38,7 +38,7 @@
 
     <h1>Matthew Cole <br> DWA15 Portfolio </h1>
 
-    <img src= "matt.jpg" alt="Matt Cole"
+    <img src= "matt.jpg" alt="Matt Cole">
 
   <div class="pure-menu pure-menu-horizontal">
       <a href="#" class="pure-menu-heading pure-menu-link">PROJECTS</a>
