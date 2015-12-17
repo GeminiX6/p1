@@ -61,8 +61,8 @@
           <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
               <a href="#" id="menuLink3" class="pure-menu-link">Project 4</a>
               <ul class="pure-menu-children">
-                  <li class="pure-menu-item"><a href="#" class="pure-menu-link">View Site</a></li>
-                  <li class="pure-menu-item"><a href="#" class="pure-menu-link">View Github</a></li>
+                  <li class="pure-menu-item"><a href="http://p4.matthewcole.tech" class="pure-menu-link">View Site</a></li>
+                  <li class="pure-menu-item"><a href="https://github.com/GeminiX6/p4" class="pure-menu-link">View Github</a></li>
               </ul>
           </li>
       </ul>
